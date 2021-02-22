@@ -41,23 +41,26 @@ img.adorno{
 	margin-left:30px;
 }
 
-div.page-description{
+div.contactanos,div.page-description{
 	background-color:#FFC8C8;
 	padding:0px;
 	margin-bottom:20px;
 }
 
-
-h2{
+h1.page-description,h2{
 	font-weight: normal;
 	text-align: center;
 	font-size: 30px;
 	font-family:font-b;
 	color:#363636;
 	margin:0px;
+	padding:5px;
+}
+
+h2{
 	margin-bottom:10px;	
 }
-@media (max-device-width:600px){h2{font-size:50px;}}
+@media (max-device-width:600px){h2,h1.page-description{font-size:50px;}}
 
 /*contact info icons and text*/
 div.contact-info{
@@ -74,6 +77,7 @@ div.contact-item{
 	align-items:center;
 	margin-left:10px;
 	margin-right:10px;
+	padding:7px;
 }
 #div.icon{
 	max-width:80px;
