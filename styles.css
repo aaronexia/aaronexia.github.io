@@ -149,7 +149,7 @@ div.subtitle{
 }
 
 
-p.subtitle-item{
+p.subtitle-item,p.item-price{
 	font-size:22px;
 	font-family:font-b;
 	height:auto;
