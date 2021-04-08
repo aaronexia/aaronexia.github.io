@@ -162,7 +162,7 @@ p.subtitle-item,p.item-price{
 	margin-right:0px;
 }
 
-@media (max-device-width:600px){p.subtitle-item{font-size:52px;}}
+@media (max-device-width:600px){p.subtitle-item,p.item-price{font-size:52px;}}
 
 /*color blocks*/
 div.colorblocks-container{
