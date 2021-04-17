@@ -104,15 +104,19 @@ p.icon-text{
 
 
 div.bar{
+	position:sticky;
+	top:0;
 	border-bottom:5px solid white;
+}
+div.bar-fiestas,div.bar{
 	height:auto;
 	margin-bottom:20px;
 	display:flex;
-	flex-wrap:wrap;
+	height:auto;
 	justify-content: center;
 	background-color:#ffbaba;
 }
-@media (min-device-width:900px){div.bar{position:sticky;top:0;}}
+
 p.bar-item{
 	text-align:center;
 	font-size:30px;
@@ -121,7 +125,7 @@ p.bar-item{
 	padding-left:4px;
 	font-family:font-a;
 	background-color:#D1D1D1;
-	margin:10px;
+	margin:0px;
 	margin-right:10px;
 	margin-left:10px;
 	font-weight: normal;

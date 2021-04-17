@@ -38,18 +38,20 @@
 
 
 </div>
+<div class="bar-fiestas">
+<a href=html/15.html><p class="bar-item">15 Años</p></a>
+<a href=html/novias.html><p class="bar-item">Novias</p></a>
+<!--<a href=html/fiestas.html><p class="bar-item">Fiestas</p></a>-->
+<a href=html/accesorios.html><p class="bar-item">Accesorios</p></a>
+<a href=html/deportivos.html><p class="bar-item">Deportivos</p></a>
+</div>
 <div class="bar">
 <a href=index.html><p class="bar-item" style="background-color:#FFD4D4;">Damas</p></a>
-<!--<a href=html/deportivos.html><p class="bar-item">Deportiva</p></a>
-<a href=html/hombres.html><p class="bar-item">Hombres</p></a>-->
-<a href=html/blanqueria.html><p class="bar-item">Blanqueria</p></a>
-<a href=html/novias.html><p class="bar-item">Novias</p></a>
-<a href=html/15.html><p class="bar-item">15 Años</p></a>
-<a href=html/accesorios.html><p class="bar-item">Accesorios</p></a>
 <a href=html/abrigos.html><p class="bar-item">Abrigos</p></a>
+<a href=html/blanqueria.html><p class="bar-item">Blanqueria</p></a>
 <a href=html/ofertas.html><p class="bar-item">Ofertas</p></a>
-</div>
 
+</div>
 <div class="products">
 <!--inicio de bloke de imagen y descripcion-->
 <div class="product">
@@ -73,7 +75,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-32</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1890</p>
+	<p class="item-price">$2.062</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-white"></div>
@@ -120,7 +122,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-5</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$950</p>
+	<p class="item-price">$1.200</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-red"></div>
@@ -170,7 +172,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-25</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$790</p>
+	<p class="item-price">$650</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-maiz"></div>
@@ -234,7 +236,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-12</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1950</p>
+	<p class="item-price">$2.200</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-verde-esmeralda"></div>
@@ -267,7 +269,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-14</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1850</p>
+	<p class="item-price">$1.900</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-white"></div>
@@ -282,7 +284,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-10</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1450</p>
+	<p class="item-price">$1.900</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-maiz"></div>
@@ -313,7 +315,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-35</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1850</p>
+	<p class="item-price">$1.400</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-white"></div>
@@ -328,7 +330,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-20</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1490</p>
+	<p class="item-price">$950</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-azul-marino"></div>
@@ -360,7 +362,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-26</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1790</p>
+	<p class="item-price">$1.400</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-jean-blue"></div>
@@ -376,7 +378,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-28</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$490</p>
+	<p class="item-price">$350</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-light-blue"></div>
@@ -394,7 +396,7 @@
 <div class="subtitle">
 	<p class="subtitle-item">Codigo = DA-33</p>
 	<p class="subtitle-item">Talles S-XXL</p>
-	<p class="item-price">$1690</p>
+	<p class="item-price">$1.200</p>
 </div>
 <div class="colorblocks-container">
 	<div class="colorblock-white"></div>
