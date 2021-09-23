@@ -1,4 +1,6 @@
 #!/bin/bash
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/github.rsa
 git add .
 git commit -m "update"
 git push
